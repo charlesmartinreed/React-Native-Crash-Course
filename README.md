@@ -14,3 +14,9 @@
 - [Expo](https://expo.io/) is a third-party service (free) that gives a sort of managed app development system that abstracts away a lot of the complexity of working with React Native. Of course, this means that some of the control you'd have from building a raw React Native app is removed.
 - React Native CLI is more power-user means of creating a RN app and is endlessly customizable, but all the setup is on your shoulders. If you need to use native features for a piece of hardware or OS, you'll have to install the necessary SDKs, IDEs, etc.
 - You can switch between the two, of course.
+
+# Working with Expo
+
+- After installing, enter 'expo start' in the CLI
+- Download the app from the App store or Google Play Store
+- Use the iOS Camera app or the Expo App on Android to open the project on your personal device and enjoy some lovely, hot reload action :D
